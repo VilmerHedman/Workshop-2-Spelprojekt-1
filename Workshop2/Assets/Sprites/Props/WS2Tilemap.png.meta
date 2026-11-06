@@ -125,6 +125,12 @@ TextureImporter:
   - first:
       213: 4545412160819596161
     second: WS2Tilemap_40
+  - first:
+      213: -5968969584943268444
+    second: WS2Tilemap_41
+  - first:
+      213: 7153711960780797966
+    second: WS2Tilemap_42
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -249,12 +255,12 @@ TextureImporter:
       name: WS2Tilemap_0
       rect:
         serializedVersion: 2
-        x: 16
-        y: 276
-        width: 80
-        height: 92
+        x: 15
+        y: 275
+        width: 82
+        height: 94
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -271,12 +277,12 @@ TextureImporter:
       name: WS2Tilemap_1
       rect:
         serializedVersion: 2
-        x: 112
-        y: 308
-        width: 48
-        height: 60
+        x: 111
+        y: 307
+        width: 50
+        height: 62
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -293,12 +299,12 @@ TextureImporter:
       name: WS2Tilemap_2
       rect:
         serializedVersion: 2
-        x: 176
-        y: 320
-        width: 64
-        height: 48
+        x: 175
+        y: 319
+        width: 66
+        height: 50
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -315,12 +321,12 @@ TextureImporter:
       name: WS2Tilemap_3
       rect:
         serializedVersion: 2
-        x: 256
-        y: 324
-        width: 16
-        height: 44
+        x: 255
+        y: 323
+        width: 18
+        height: 46
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -337,12 +343,12 @@ TextureImporter:
       name: WS2Tilemap_4
       rect:
         serializedVersion: 2
-        x: 304
-        y: 320
-        width: 48
-        height: 48
+        x: 303
+        y: 319
+        width: 50
+        height: 50
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -359,12 +365,12 @@ TextureImporter:
       name: WS2Tilemap_5
       rect:
         serializedVersion: 2
-        x: 160
-        y: 272
-        width: 18
-        height: 24
+        x: 159
+        y: 271
+        width: 20
+        height: 26
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -381,12 +387,12 @@ TextureImporter:
       name: WS2Tilemap_6
       rect:
         serializedVersion: 2
-        x: 194
-        y: 272
-        width: 13
-        height: 16
+        x: 193
+        y: 271
+        width: 15
+        height: 18
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -403,12 +409,12 @@ TextureImporter:
       name: WS2Tilemap_7
       rect:
         serializedVersion: 2
-        x: 236
-        y: 252
-        width: 48
-        height: 48
+        x: 235
+        y: 251
+        width: 50
+        height: 50
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -425,12 +431,12 @@ TextureImporter:
       name: WS2Tilemap_8
       rect:
         serializedVersion: 2
-        x: 288
-        y: 272
-        width: 16
-        height: 32
+        x: 287
+        y: 271
+        width: 18
+        height: 34
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -447,12 +453,12 @@ TextureImporter:
       name: WS2Tilemap_9
       rect:
         serializedVersion: 2
-        x: 320
-        y: 288
-        width: 32
-        height: 16
+        x: 319
+        y: 287
+        width: 34
+        height: 18
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -469,12 +475,12 @@ TextureImporter:
       name: WS2Tilemap_10
       rect:
         serializedVersion: 2
-        x: 96
-        y: 244
-        width: 16
-        height: 28
+        x: 31
+        y: 227
+        width: 34
+        height: 30
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -491,12 +497,12 @@ TextureImporter:
       name: WS2Tilemap_11
       rect:
         serializedVersion: 2
-        x: 128
-        y: 256
-        width: 17
-        height: 16
+        x: 95
+        y: 243
+        width: 18
+        height: 30
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -513,12 +519,12 @@ TextureImporter:
       name: WS2Tilemap_12
       rect:
         serializedVersion: 2
-        x: 180
-        y: 258
-        width: 9
-        height: 12
+        x: 127
+        y: 255
+        width: 19
+        height: 18
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -535,12 +541,12 @@ TextureImporter:
       name: WS2Tilemap_13
       rect:
         serializedVersion: 2
-        x: 208
-        y: 238
-        width: 16
-        height: 20
+        x: 179
+        y: 257
+        width: 11
+        height: 14
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -557,12 +563,12 @@ TextureImporter:
       name: WS2Tilemap_14
       rect:
         serializedVersion: 2
-        x: 336
-        y: 240
-        width: 16
-        height: 32
+        x: 207
+        y: 237
+        width: 18
+        height: 22
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -579,12 +585,12 @@ TextureImporter:
       name: WS2Tilemap_15
       rect:
         serializedVersion: 2
-        x: 32
-        y: 228
-        width: 32
-        height: 28
+        x: 287
+        y: 239
+        width: 34
+        height: 18
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -601,12 +607,12 @@ TextureImporter:
       name: WS2Tilemap_16
       rect:
         serializedVersion: 2
-        x: 142
-        y: 225
-        width: 20
-        height: 15
+        x: 335
+        y: 239
+        width: 18
+        height: 34
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -623,12 +629,12 @@ TextureImporter:
       name: WS2Tilemap_17
       rect:
         serializedVersion: 2
-        x: 181
-        y: 228
-        width: 7
-        height: 20
+        x: 141
+        y: 224
+        width: 22
+        height: 17
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -645,12 +651,12 @@ TextureImporter:
       name: WS2Tilemap_18
       rect:
         serializedVersion: 2
-        x: 288
-        y: 240
-        width: 32
-        height: 16
+        x: 180
+        y: 227
+        width: 9
+        height: 22
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -667,12 +673,12 @@ TextureImporter:
       name: WS2Tilemap_19
       rect:
         serializedVersion: 2
-        x: 16
-        y: 176
-        width: 48
-        height: 48
+        x: 15
+        y: 175
+        width: 50
+        height: 50
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -689,12 +695,12 @@ TextureImporter:
       name: WS2Tilemap_20
       rect:
         serializedVersion: 2
-        x: 80
-        y: 160
-        width: 48
-        height: 64
+        x: 79
+        y: 159
+        width: 50
+        height: 66
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -711,12 +717,12 @@ TextureImporter:
       name: WS2Tilemap_21
       rect:
         serializedVersion: 2
-        x: 167
-        y: 204
-        width: 23
-        height: 18
+        x: 166
+        y: 203
+        width: 25
+        height: 20
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -733,12 +739,12 @@ TextureImporter:
       name: WS2Tilemap_22
       rect:
         serializedVersion: 2
-        x: 196
-        y: 204
-        width: 17
-        height: 20
+        x: 195
+        y: 203
+        width: 19
+        height: 22
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -755,12 +761,12 @@ TextureImporter:
       name: WS2Tilemap_23
       rect:
         serializedVersion: 2
-        x: 217
-        y: 204
-        width: 17
-        height: 20
+        x: 205
+        y: 181
+        width: 19
+        height: 22
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -777,12 +783,12 @@ TextureImporter:
       name: WS2Tilemap_24
       rect:
         serializedVersion: 2
-        x: 240
-        y: 176
-        width: 48
-        height: 48
+        x: 216
+        y: 203
+        width: 19
+        height: 22
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -799,12 +805,12 @@ TextureImporter:
       name: WS2Tilemap_25
       rect:
         serializedVersion: 2
-        x: 304
-        y: 195
-        width: 16
-        height: 29
+        x: 239
+        y: 175
+        width: 50
+        height: 50
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -821,12 +827,12 @@ TextureImporter:
       name: WS2Tilemap_26
       rect:
         serializedVersion: 2
-        x: 144
-        y: 144
-        width: 16
-        height: 48
+        x: 303
+        y: 194
+        width: 18
+        height: 31
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -843,12 +849,12 @@ TextureImporter:
       name: WS2Tilemap_27
       rect:
         serializedVersion: 2
-        x: 180
-        y: 182
-        width: 21
-        height: 19
+        x: 143
+        y: 143
+        width: 18
+        height: 50
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -865,12 +871,12 @@ TextureImporter:
       name: WS2Tilemap_28
       rect:
         serializedVersion: 2
-        x: 206
-        y: 182
-        width: 17
-        height: 20
+        x: 179
+        y: 181
+        width: 23
+        height: 21
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -887,12 +893,12 @@ TextureImporter:
       name: WS2Tilemap_29
       rect:
         serializedVersion: 2
-        x: 304
-        y: 176
-        width: 16
-        height: 16
+        x: 303
+        y: 175
+        width: 18
+        height: 18
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -909,12 +915,12 @@ TextureImporter:
       name: WS2Tilemap_30
       rect:
         serializedVersion: 2
-        x: 32
-        y: 140
-        width: 32
-        height: 32
+        x: 31
+        y: 139
+        width: 34
+        height: 34
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -931,12 +937,12 @@ TextureImporter:
       name: WS2Tilemap_31
       rect:
         serializedVersion: 2
-        x: 176
-        y: 144
-        width: 48
-        height: 16
+        x: 239
+        y: 127
+        width: 18
+        height: 18
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -953,12 +959,12 @@ TextureImporter:
       name: WS2Tilemap_32
       rect:
         serializedVersion: 2
-        x: 240
-        y: 128
-        width: 16
-        height: 16
+        x: 271
+        y: 111
+        width: 18
+        height: 34
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -975,12 +981,12 @@ TextureImporter:
       name: WS2Tilemap_33
       rect:
         serializedVersion: 2
-        x: 272
-        y: 112
-        width: 16
-        height: 32
+        x: 303
+        y: 111
+        width: 50
+        height: 50
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -997,12 +1003,12 @@ TextureImporter:
       name: WS2Tilemap_34
       rect:
         serializedVersion: 2
-        x: 304
-        y: 112
-        width: 48
-        height: 48
+        x: 31
+        y: 71
+        width: 50
+        height: 58
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1019,12 +1025,12 @@ TextureImporter:
       name: WS2Tilemap_35
       rect:
         serializedVersion: 2
-        x: 32
-        y: 72
-        width: 48
-        height: 56
+        x: 111
+        y: 55
+        width: 50
+        height: 74
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1041,12 +1047,12 @@ TextureImporter:
       name: WS2Tilemap_36
       rect:
         serializedVersion: 2
-        x: 112
-        y: 56
-        width: 48
-        height: 72
+        x: 175
+        y: 71
+        width: 18
+        height: 58
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1063,12 +1069,12 @@ TextureImporter:
       name: WS2Tilemap_37
       rect:
         serializedVersion: 2
-        x: 176
-        y: 72
-        width: 16
-        height: 56
+        x: 207
+        y: 95
+        width: 50
+        height: 18
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1085,12 +1091,12 @@ TextureImporter:
       name: WS2Tilemap_38
       rect:
         serializedVersion: 2
-        x: 208
-        y: 96
-        width: 48
-        height: 16
+        x: 31
+        y: 23
+        width: 34
+        height: 42
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1107,12 +1113,12 @@ TextureImporter:
       name: WS2Tilemap_39
       rect:
         serializedVersion: 2
-        x: 32
-        y: 24
-        width: 32
-        height: 40
+        x: 79
+        y: 23
+        width: 18
+        height: 42
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1129,12 +1135,12 @@ TextureImporter:
       name: WS2Tilemap_40
       rect:
         serializedVersion: 2
-        x: 80
-        y: 24
-        width: 16
-        height: 40
+        x: 207
+        y: 63
+        width: 18
+        height: 18
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1147,11 +1153,55 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: WS2Tilemap_41
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 63
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad785699c5f92da0800000000000000
+      internalID: -5968969584943268444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WS2Tilemap_42
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 63
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e087dc75027174360800000000000000
+      internalID: 7153711960780797966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 8d9d46f3dab52ff4ca59c137506659ee
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -1159,9 +1209,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries:
-      - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+      entries: []
     nameFileIdTable:
       WS2Tilemap_0: -6501500593544980698
       WS2Tilemap_1: 7834227503995371324
@@ -1199,6 +1247,8 @@ TextureImporter:
       WS2Tilemap_39: 8184031281666526076
       WS2Tilemap_4: -6039693812491650983
       WS2Tilemap_40: 4545412160819596161
+      WS2Tilemap_41: -5968969584943268444
+      WS2Tilemap_42: 7153711960780797966
       WS2Tilemap_5: -8832478516899698902
       WS2Tilemap_6: 5876979552090417828
       WS2Tilemap_7: 2220077273729994584

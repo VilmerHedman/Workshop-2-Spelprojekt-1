@@ -1,0 +1,1261 @@
+fileFormatVersion: 2
+guid: 2cd6f8f668e156e4a8a34a786709eaeb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1209172593142021734
+    second: WS2Tilemap-sheet_0
+  - first:
+      213: 4312434806628029290
+    second: WS2Tilemap-sheet_1
+  - first:
+      213: -2819397883480888997
+    second: WS2Tilemap-sheet_2
+  - first:
+      213: -7056842697327630251
+    second: WS2Tilemap-sheet_3
+  - first:
+      213: 7860453127726392723
+    second: WS2Tilemap-sheet_4
+  - first:
+      213: 3862446087933058859
+    second: WS2Tilemap-sheet_5
+  - first:
+      213: -9205910639428430320
+    second: WS2Tilemap-sheet_6
+  - first:
+      213: -7725494085056669955
+    second: WS2Tilemap-sheet_7
+  - first:
+      213: 1826073530282753447
+    second: WS2Tilemap-sheet_8
+  - first:
+      213: -1223111561822778933
+    second: WS2Tilemap-sheet_9
+  - first:
+      213: -3847248689368086244
+    second: WS2Tilemap-sheet_10
+  - first:
+      213: 4645112319470746156
+    second: WS2Tilemap-sheet_11
+  - first:
+      213: -5632163066856637410
+    second: WS2Tilemap-sheet_12
+  - first:
+      213: 5074052371099264558
+    second: WS2Tilemap-sheet_13
+  - first:
+      213: -8830630841706339223
+    second: WS2Tilemap-sheet_14
+  - first:
+      213: 8138966892188049649
+    second: WS2Tilemap-sheet_15
+  - first:
+      213: -233404943018413707
+    second: WS2Tilemap-sheet_16
+  - first:
+      213: 2869079750185224002
+    second: WS2Tilemap-sheet_17
+  - first:
+      213: 4480972288824874226
+    second: WS2Tilemap-sheet_18
+  - first:
+      213: -6249693885546099462
+    second: WS2Tilemap-sheet_19
+  - first:
+      213: -4151598199474481736
+    second: WS2Tilemap-sheet_20
+  - first:
+      213: 6264358893488287592
+    second: WS2Tilemap-sheet_21
+  - first:
+      213: 3275695144269781273
+    second: WS2Tilemap-sheet_22
+  - first:
+      213: 520700840111996522
+    second: WS2Tilemap-sheet_23
+  - first:
+      213: -6670170738424781399
+    second: WS2Tilemap-sheet_24
+  - first:
+      213: -8965631329585311159
+    second: WS2Tilemap-sheet_25
+  - first:
+      213: -7406557477040962978
+    second: WS2Tilemap-sheet_26
+  - first:
+      213: 5328250608293644210
+    second: WS2Tilemap-sheet_27
+  - first:
+      213: -1098413746932057241
+    second: WS2Tilemap-sheet_28
+  - first:
+      213: 6282148201322924976
+    second: WS2Tilemap-sheet_29
+  - first:
+      213: -8859468816618744922
+    second: WS2Tilemap-sheet_30
+  - first:
+      213: -3319174463802180241
+    second: WS2Tilemap-sheet_31
+  - first:
+      213: -2606608877305639263
+    second: WS2Tilemap-sheet_32
+  - first:
+      213: -5300852192979845753
+    second: WS2Tilemap-sheet_33
+  - first:
+      213: 1595250260541477640
+    second: WS2Tilemap-sheet_34
+  - first:
+      213: 6826429253229662531
+    second: WS2Tilemap-sheet_35
+  - first:
+      213: 2615071610604762546
+    second: WS2Tilemap-sheet_36
+  - first:
+      213: -3303209894817852221
+    second: WS2Tilemap-sheet_37
+  - first:
+      213: -5860131807606944344
+    second: WS2Tilemap-sheet_38
+  - first:
+      213: 4902327516530531838
+    second: WS2Tilemap-sheet_39
+  - first:
+      213: 4714827703066043172
+    second: WS2Tilemap-sheet_40
+  - first:
+      213: -5405532473423517559
+    second: WS2Tilemap-sheet_41
+  - first:
+      213: 1569412198979470825
+    second: WS2Tilemap-sheet_42
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WS2Tilemap-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 275
+        width: 82
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66e3e562118d7c010800000000000000
+      internalID: 1209172593142021734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WS2Tilemap-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 307
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a63181ebb98d8db30800000000000000
+      internalID: 4312434806628029290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WS2Tilemap-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 319
+        width: 66
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5922a2109c7fd8d0800000000000000
+      internalID: -2819397883480888997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WS2Tilemap-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 323
+        width: 18
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5582afd94fe011e90800000000000000
+      internalID: -7056842697327630251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WS2Tilemap-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 319
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3956db32970f51d60800000000000000
+      internalID: 7860453127726392723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WS2Tilemap-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 271
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2fd85bb04a2a9530800000000000000
+      internalID: 3862446087933058859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WS2Tilemap-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 271
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01611e66c090e3080800000000000000
+      internalID: -9205910639428430320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WS2Tilemap-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 251
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df6d0d1af0889c490800000000000000
+      internalID: -7725494085056669955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WS2Tilemap-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 271
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad3f3a6334875910800000000000000
+      internalID: 1826073530282753447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WS2Tilemap-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 287
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc941ecc382a60fe0800000000000000
+      internalID: -1223111561822778933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WS2Tilemap-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 227
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c19c0ab53b3db9ac0800000000000000
+      internalID: -3847248689368086244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WS2Tilemap-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 243
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2a38df2b01c67040800000000000000
+      internalID: 4645112319470746156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WS2Tilemap-sheet_12
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 255
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1c7feaf78986d1b0800000000000000
+      internalID: -5632163066856637410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WS2Tilemap-sheet_13
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 257
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e26a91f7fb7aa6640800000000000000
+      internalID: 5074052371099264558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WS2Tilemap-sheet_14
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 237
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9642c71490c437580800000000000000
+      internalID: -8830630841706339223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WS2Tilemap-sheet_15
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 239
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f0a88f244b63f070800000000000000
+      internalID: 8138966892188049649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WS2Tilemap-sheet_16
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 239
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5713192e077c2ccf0800000000000000
+      internalID: -233404943018413707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WS2Tilemap-sheet_17
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 224
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2478e0ee4d401d720800000000000000
+      internalID: 2869079750185224002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WS2Tilemap-sheet_18
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 227
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f496c33e8c9f2e30800000000000000
+      internalID: 4480972288824874226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WS2Tilemap-sheet_19
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 175
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afc081df580a449a0800000000000000
+      internalID: -6249693885546099462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WS2Tilemap-sheet_20
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 159
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b51c260f6f8266c0800000000000000
+      internalID: -4151598199474481736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WS2Tilemap-sheet_21
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 203
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86fadef39397fe650800000000000000
+      internalID: 6264358893488287592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WS2Tilemap-sheet_22
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 203
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9191caad06b957d20800000000000000
+      internalID: 3275695144269781273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WS2Tilemap-sheet_23
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 181
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e7f11c7a6e93700800000000000000
+      internalID: 520700840111996522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WS2Tilemap-sheet_24
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 203
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a56cf0bd0bce63a0800000000000000
+      internalID: -6670170738424781399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WS2Tilemap-sheet_25
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 175
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94254f4cecda39380800000000000000
+      internalID: -8965631329585311159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WS2Tilemap-sheet_26
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 194
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e52c57c573f963990800000000000000
+      internalID: -7406557477040962978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WS2Tilemap-sheet_27
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 143
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b70a9da2bfb1f940800000000000000
+      internalID: 5328250608293644210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WS2Tilemap-sheet_28
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 181
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76b75bd4486a1c0f0800000000000000
+      internalID: -1098413746932057241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WS2Tilemap-sheet_29
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 175
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb463e318cae2750800000000000000
+      internalID: 6282148201322924976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WS2Tilemap-sheet_30
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 139
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a31acefc08dc0580800000000000000
+      internalID: -8859468816618744922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WS2Tilemap-sheet_31
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 127
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6df581396cefe1d0800000000000000
+      internalID: -3319174463802180241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WS2Tilemap-sheet_32
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 111
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ae41d7590773dbd0800000000000000
+      internalID: -2606608877305639263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WS2Tilemap-sheet_33
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 111
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78df59ef3079f66b0800000000000000
+      internalID: -5300852192979845753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WS2Tilemap-sheet_34
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 71
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8039c63f8a7732610800000000000000
+      internalID: 1595250260541477640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WS2Tilemap-sheet_35
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 55
+        width: 50
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 341d613ec395cbe50800000000000000
+      internalID: 6826429253229662531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WS2Tilemap-sheet_36
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 71
+        width: 18
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b53e4c46c99a4420800000000000000
+      internalID: 2615071610604762546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WS2Tilemap-sheet_37
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 95
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c493d01a14a822d0800000000000000
+      internalID: -3303209894817852221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WS2Tilemap-sheet_38
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 23
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8adce965b21acaea0800000000000000
+      internalID: -5860131807606944344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WS2Tilemap-sheet_39
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 23
+        width: 18
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efddc6317e0980440800000000000000
+      internalID: 4902327516530531838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WS2Tilemap-sheet_40
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 63
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4232c62d0de6e6140800000000000000
+      internalID: 4714827703066043172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WS2Tilemap-sheet_41
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 63
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 988a0cbead0bbf4b0800000000000000
+      internalID: -5405532473423517559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WS2Tilemap-sheet_42
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 63
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e50652741ca7c510800000000000000
+      internalID: 1569412198979470825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      WS2Tilemap-sheet_0: 1209172593142021734
+      WS2Tilemap-sheet_1: 4312434806628029290
+      WS2Tilemap-sheet_10: -3847248689368086244
+      WS2Tilemap-sheet_11: 4645112319470746156
+      WS2Tilemap-sheet_12: -5632163066856637410
+      WS2Tilemap-sheet_13: 5074052371099264558
+      WS2Tilemap-sheet_14: -8830630841706339223
+      WS2Tilemap-sheet_15: 8138966892188049649
+      WS2Tilemap-sheet_16: -233404943018413707
+      WS2Tilemap-sheet_17: 2869079750185224002
+      WS2Tilemap-sheet_18: 4480972288824874226
+      WS2Tilemap-sheet_19: -6249693885546099462
+      WS2Tilemap-sheet_2: -2819397883480888997
+      WS2Tilemap-sheet_20: -4151598199474481736
+      WS2Tilemap-sheet_21: 6264358893488287592
+      WS2Tilemap-sheet_22: 3275695144269781273
+      WS2Tilemap-sheet_23: 520700840111996522
+      WS2Tilemap-sheet_24: -6670170738424781399
+      WS2Tilemap-sheet_25: -8965631329585311159
+      WS2Tilemap-sheet_26: -7406557477040962978
+      WS2Tilemap-sheet_27: 5328250608293644210
+      WS2Tilemap-sheet_28: -1098413746932057241
+      WS2Tilemap-sheet_29: 6282148201322924976
+      WS2Tilemap-sheet_3: -7056842697327630251
+      WS2Tilemap-sheet_30: -8859468816618744922
+      WS2Tilemap-sheet_31: -3319174463802180241
+      WS2Tilemap-sheet_32: -2606608877305639263
+      WS2Tilemap-sheet_33: -5300852192979845753
+      WS2Tilemap-sheet_34: 1595250260541477640
+      WS2Tilemap-sheet_35: 6826429253229662531
+      WS2Tilemap-sheet_36: 2615071610604762546
+      WS2Tilemap-sheet_37: -3303209894817852221
+      WS2Tilemap-sheet_38: -5860131807606944344
+      WS2Tilemap-sheet_39: 4902327516530531838
+      WS2Tilemap-sheet_4: 7860453127726392723
+      WS2Tilemap-sheet_40: 4714827703066043172
+      WS2Tilemap-sheet_41: -5405532473423517559
+      WS2Tilemap-sheet_42: 1569412198979470825
+      WS2Tilemap-sheet_5: 3862446087933058859
+      WS2Tilemap-sheet_6: -9205910639428430320
+      WS2Tilemap-sheet_7: -7725494085056669955
+      WS2Tilemap-sheet_8: 1826073530282753447
+      WS2Tilemap-sheet_9: -1223111561822778933
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
