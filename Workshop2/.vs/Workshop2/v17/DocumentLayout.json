@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\medio\\Documents\\GitHub\\Workshop 2 Spelprojekt 1\\Workshop2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F61F0D8-CE6E-159E-D769-67768A7981EC}|Assembly-CSharp.csproj|c:\\users\\medio\\documents\\github\\workshop 2 spelprojekt 1\\workshop2\\assets\\scripts\\audio\\ui\\uisoundtrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F61F0D8-CE6E-159E-D769-67768A7981EC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\audio\\ui\\uisoundtrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F61F0D8-CE6E-159E-D769-67768A7981EC}|Assembly-CSharp.csproj|c:\\users\\medio\\documents\\github\\workshop 2 spelprojekt 1\\workshop2\\assets\\scripts\\intro button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F61F0D8-CE6E-159E-D769-67768A7981EC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\intro button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F61F0D8-CE6E-159E-D769-67768A7981EC}|Assembly-CSharp.csproj|c:\\users\\medio\\documents\\github\\workshop 2 spelprojekt 1\\workshop2\\assets\\scripts\\audio\\ui\\uiinteractionsoundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F61F0D8-CE6E-159E-D769-67768A7981EC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\audio\\ui\\uiinteractionsoundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F61F0D8-CE6E-159E-D769-67768A7981EC}|Assembly-CSharp.csproj|c:\\users\\medio\\documents\\github\\workshop 2 spelprojekt 1\\workshop2\\assets\\scripts\\audio\\ui\\interactionsoundtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F61F0D8-CE6E-159E-D769-67768A7981EC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\audio\\ui\\interactionsoundtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UiSoundTrigger.cs",
+              "DocumentMoniker": "C:\\Users\\medio\\Documents\\GitHub\\Workshop 2 Spelprojekt 1\\Workshop2\\Assets\\Scripts\\Audio\\UI\\UiSoundTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Audio\\UI\\UiSoundTrigger.cs",
+              "ToolTip": "C:\\Users\\medio\\Documents\\GitHub\\Workshop 2 Spelprojekt 1\\Workshop2\\Assets\\Scripts\\Audio\\UI\\UiSoundTrigger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Audio\\UI\\UiSoundTrigger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T11:08:57.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Intro Button.cs",
+              "DocumentMoniker": "C:\\Users\\medio\\Documents\\GitHub\\Workshop 2 Spelprojekt 1\\Workshop2\\Assets\\Scripts\\Intro Button.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Intro Button.cs",
+              "ToolTip": "C:\\Users\\medio\\Documents\\GitHub\\Workshop 2 Spelprojekt 1\\Workshop2\\Assets\\Scripts\\Intro Button.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Intro Button.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T11:08:02.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InteractionSoundType.cs",
+              "DocumentMoniker": "C:\\Users\\medio\\Documents\\GitHub\\Workshop 2 Spelprojekt 1\\Workshop2\\Assets\\Scripts\\Audio\\UI\\InteractionSoundType.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Audio\\UI\\InteractionSoundType.cs",
+              "ToolTip": "C:\\Users\\medio\\Documents\\GitHub\\Workshop 2 Spelprojekt 1\\Workshop2\\Assets\\Scripts\\Audio\\UI\\InteractionSoundType.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Audio\\UI\\InteractionSoundType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T11:07:35.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UiInteractionSoundManager.cs",
+              "DocumentMoniker": "C:\\Users\\medio\\Documents\\GitHub\\Workshop 2 Spelprojekt 1\\Workshop2\\Assets\\Scripts\\Audio\\UI\\UiInteractionSoundManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Audio\\UI\\UiInteractionSoundManager.cs",
+              "ToolTip": "C:\\Users\\medio\\Documents\\GitHub\\Workshop 2 Spelprojekt 1\\Workshop2\\Assets\\Scripts\\Audio\\UI\\UiInteractionSoundManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Audio\\UI\\UiInteractionSoundManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T11:07:26.01Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

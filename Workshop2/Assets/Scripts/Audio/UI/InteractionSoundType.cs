@@ -1,0 +1,15 @@
+﻿namespace WorkshopCode.UI
+{
+    public enum InteractionSoundType
+    {
+        Unspecified,
+        Click
+        
+    }
+
+    public enum InteractionSoundOn
+    {
+        PointerUp,
+        PointerDown
+    }
+}
